@@ -26,7 +26,7 @@ In general, this is roughly the common approach for a machine learning problem. 
 
 ## 1. The data set
 
-What if a malicious villain kidnaps your loved ones and the only way to rescue them is by being able to identifiy a random flower via its sepal lenght. Fear no more, we got you fam. [The Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) is the designated data set we work with and it surely will be helpful in your life. 
+What if a malicious villain kidnaps your loved ones and the only way to rescue them is by being able to identifiy a random flower via its sepal lenght. Fear no more, we got you fam. [The Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) is the designated data set we work with and it surely will become handy some day in your life. 
 <br><br/>
 ![Alt-Text](https://www.spataru.at/images/blog/iris-dataset-svm/iris_types.jpg)
 
