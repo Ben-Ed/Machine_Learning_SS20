@@ -13,13 +13,13 @@ The work on these tasks has been a close collaboration with **@iwasscience**. Wh
 To start with, a description of our primary learning problem is given. This learning problem will serve as our motivation and guide us along the sections. Each section itself consists of the implementation and the theory behind it. Our elaboration is structured as the following: 
 <br>
 
-1. The dataset
+1. **The dataset**
 
-2. Learning Model
+2. **Learning Model**
 
-3. Hyperparameter Tuning
+3. **Hyperparameter Tuning**
 
-4. Model Evaluation
+4. **Model Evaluation**
 
 In general, this is roughly the common approach for a machine learning problem. The result is a trained model, which is able to make profound predictions. To achieve this, we have to use the existing data to train the model and then tune and evaluate it. This is not a rigid order, as we conclude within our evaluation that we should have choosen another learning model perhaps. You get the spirit.
 <br><br/>
