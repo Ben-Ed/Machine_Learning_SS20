@@ -1,6 +1,6 @@
 ![Alt-Text](https://image.freepik.com/free-vector/technology-face-circuit-diagram-background_1017-18300.jpg)
 
-# Machine Learning - A hands on approach
+# Machine Learning - A hands on approach  [WIP]
 
 This Showcase is inspired by the assignments of the course "Machine Learning" which I attend this summer semester 2020. The module does not only show implementations of different learning models, but also teaches the underlying mathematical foundations. In the following, a problem will be presented and how we can solve it, including the model selection, parameter tuning and finally, the model evaluation. [Here is the full notebook](google.de)
 <br><br/>
