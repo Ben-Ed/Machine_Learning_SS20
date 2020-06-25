@@ -41,7 +41,7 @@ What if a malicious villain kidnaps your loved ones and the only way to rescue t
 
 <br><br/>
 
-## 3. Hyperparameter Tuning
+## 3. Hyperparameter-Tuning
 
 
 ```python
